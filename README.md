@@ -9,8 +9,8 @@ This program takes a Brainfuck program and uses Steganography witchcraft to enco
   (I suggest anaconda :P)
   
 # Usage 
-  encoding a file:  
-  `python3 sf4jrlkbfe.py -e [input image] [-f] [brainfuck code inline or code file] [output image]`
+  encoding a file using anaconda in windows (just throw everything in the main anaconda install folder and open your terminal from there):  
+  `python bfsteg.py -e [input image] [-f] [brainfuck code inline or code file] [output image]`
   
   running a Lost Kingdom game on windows:
   `python sf4jrlkbfe.py lk.png save.txt`
