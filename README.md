@@ -1,4 +1,3 @@
-<img src="Isolated.png"
 <img src="LK.png" alt="Jon Ripley's Lost Kingdom BFE encoded via bf steganography lang to a screenshot of the page where Lost Kindgom BFE is on Jon Ripley's website."></img>
 
 ## StegFuck
