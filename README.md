@@ -1,4 +1,4 @@
-<img src="LK.PNG" alt="Jon Ripley's Lost Kingdom BFE encoded via bf steganography lang to a screenshot of the page where Lost Kindgom BFE is on Jon Ripley's website."></img>
+<img src='LK.PNG' alt="Jon Ripley's Lost Kingdom BFE encoded via bf steganography lang to a screenshot of the page where Lost Kindgom BFE is on Jon Ripley's website."></img>
 
 ## StegFuck
 This program takes a Brainfuck program and uses Steganography witchcraft to encode it as an image. 
